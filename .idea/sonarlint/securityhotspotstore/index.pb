@@ -197,3 +197,5 @@ w
 G.idea/sonarlint/issuestore/8/8/881e692916c24b30526e85c29acbd45421e2ea97,b\f\bf07ddc69cf8cb962f9f3e5ffaeeb5425e760d54
 w
 G.idea/sonarlint/issuestore/8/b/8bc1d142a391f925bb20aeee187bd87df124648f,d\9\d923d83277d8dc4674a2f6b299532087e4f88a52
+f
+6microservice-eureka/src/main/resources/application.yml,b\b\bbf358806f0268ee226b75a5a778216ce2a41ecc
