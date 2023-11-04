@@ -13,3 +13,5 @@ public class MicroserviceEurekaApplication {
 	}
 
 }
+
+/** Acessar Spring Eureka - http://localhost:8761/ */
