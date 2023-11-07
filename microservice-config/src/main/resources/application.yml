@@ -1,0 +1,18 @@
+server:
+  port: 8888
+
+spring:
+  profiles:
+    active: native
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        native:
+          search-locations: classpath:/configurations
+
+# OBS. Esse microservice pode por exemplo sincronizar com o github, fazer backups.
+# Vale ressaltar que esse microservice é o primeiro a ser executado.
+
+
