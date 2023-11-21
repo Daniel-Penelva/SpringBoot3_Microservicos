@@ -1253,7 +1253,7 @@ Essa interface `StudentClient` é injetada em outras classes ou componentes do M
 
 #### 2.4.6 HTTP
 
-O script que você forneceu define uma classe chamada `StudentByCourseResponse`, que parece ser um objeto de resposta (response) utilizado no contexto do Microserviço Course. Vamos entender o propósito desse script:
+O script define uma classe chamada `StudentByCourseResponse`, que é um objeto de resposta (response) utilizado no contexto do Microserviço Course. 
 
 #### 2.4.6.1 http `StudentByCourseResponse`:
 
